@@ -17,7 +17,7 @@ def run():
             print("Habrás ganado....?")
             time.sleep(1.5)
             print("No ganaste...")
-            time.sleep(1.5)
+            time.sleep(1)
             numero_elejido = int(input("Elige un numero mas pequeño: "))
     time.sleep(1.5)
     print("Habrás ganado....?")
